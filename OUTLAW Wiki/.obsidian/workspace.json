@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "34d942c4edf77494",
+    "type": "split",
+    "children": [
+      {
+        "id": "a790881a60283a0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7353ff1e31426043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dfe55468b0f8786",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d64691508a4dd9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad4407e01556213c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c949965bfa6b8603",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0703ad8338b2d8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "026b5420913a69c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ade820456d5dbfa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae9c4698623dd9dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e87eee8da7c7a70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06e872a843cb9726",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d5bf73b31e8b8104",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pure.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7353ff1e31426043",
+  "lastOpenFiles": [
+    "2024-07-09.md",
+    "Мозговой штурм.md",
+    "Blush.md",
+    "pure.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Сюжет/Введение.md",
+    "База/Сеттинг и вытекающие.md",
+    "Сюжет/Завязка.md",
+    "1-я глава.md",
+    "Персонажи/ГГ (Хикару).md",
+    "Организации/Бездонные (Бурсек).md",
+    "Персонажи/Клевер (Дамиан Келлер).md",
+    "Основы мира/Технологии.md",
+    "Основы мира/Флора и фауна.md",
+    "Основы мира/Культура.md",
+    "Основы мира/Население.md",
+    "Основы мира/История мира.md",
+    "Основы мира/География.md",
+    "База",
+    "Основы мира/Политика.md",
+    "организация.md",
+    "вфвфвф.md",
+    "Персонажи",
+    "Основы мира.md",
+    "Основы мира",
+    "Организации",
+    "Сюжет"
+  ]
+}

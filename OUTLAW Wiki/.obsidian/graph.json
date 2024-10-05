@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#заготовки",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#50_слов",
+      "color": {
+        "a": 1,
+        "rgb": 9508888
+      }
+    },
+    {
+      "query": "tag:#100_слов",
+      "color": {
+        "a": 1,
+        "rgb": 14817304
+      }
+    },
+    {
+      "query": "tag:#200_слов",
+      "color": {
+        "a": 1,
+        "rgb": 15295029
+      }
+    },
+    {
+      "query": "tag:#300_слов",
+      "color": {
+        "a": 1,
+        "rgb": 16701206
+      }
+    },
+    {
+      "query": "tag:#400_слов",
+      "color": {
+        "a": 1,
+        "rgb": 11337600
+      }
+    },
+    {
+      "query": "tag:#500_слов",
+      "color": {
+        "a": 1,
+        "rgb": 392705
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.465397923875433,
+  "repelStrength": 11.1764705882353,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.4019828977760993,
+  "close": false
+}

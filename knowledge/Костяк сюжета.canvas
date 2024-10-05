@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"58ffcbe58ec3940a","type":"text","text":"Haerin's journey","x":-159,"y":-84,"width":250,"height":60,"color":"2"},
+		{"id":"2ac3419622f51935","type":"text","text":"Айдол","x":220,"y":340,"width":250,"height":60,"color":"3"},
+		{"id":"2bede42f20dc6f86","type":"text","text":"Пре-дебют (трейни)","x":400,"y":160,"width":250,"height":60,"color":"3"},
+		{"id":"4aef0105bf3e3ed6","type":"text","text":"Начало","x":275,"y":-320,"width":250,"height":60,"color":"3"},
+		{"id":"b1366c00e1238ff1","type":"text","text":"Прослушивание","x":400,"y":-84,"width":250,"height":60,"color":"3"},
+		{"id":"88c7d63934fb9f65","type":"text","text":"Сеттинг\n","x":680,"y":-260,"width":250,"height":60,"color":"5"},
+		{"id":"c7fed272bb2fec8b","type":"text","text":"Персонажи","x":680,"y":-500,"width":250,"height":60,"color":"5"},
+		{"id":"7a3c23619be5df10","type":"text","text":"Зара","x":1000,"y":-700,"width":250,"height":60},
+		{"id":"cd1ca7166bc58900","type":"text","text":"Качества персонажа","x":1360,"y":-700,"width":250,"height":60},
+		{"id":"474f1f19ed3a48fe","type":"text","text":"1. Нежная\n2. Невинный цветочек\n3. Тихая\n4. Поддерживающая\n5. Эмпатичная\n6. Не обделена интелектом","x":1360,"y":-546,"width":250,"height":213},
+		{"id":"f15cf2a59ac39b13","type":"text","text":"Главная цель","x":1000,"y":-1080,"width":250,"height":60},
+		{"id":"4efdafe84ebd5b37","type":"text","text":"Хорошо отучиться и поступить университет маркетинга","x":1320,"y":-1112,"width":250,"height":125},
+		{"id":"6eade02cf3946bc9","type":"text","text":"Интересы","x":555,"y":-1140,"width":250,"height":60},
+		{"id":"45491d1b754d715d","type":"text","text":"1. Поэзия\n2. Чтение\n3. Коллекционирование редких книг\n4. Художественные выставки","x":555,"y":-987,"width":250,"height":120}
+	],
+	"edges":[
+		{"id":"05aba9df35226914","fromNode":"58ffcbe58ec3940a","fromSide":"right","toNode":"4aef0105bf3e3ed6","toSide":"left"},
+		{"id":"02412eb3a62fa5e6","fromNode":"58ffcbe58ec3940a","fromSide":"right","toNode":"b1366c00e1238ff1","toSide":"left"},
+		{"id":"a8ea179d6261b89c","fromNode":"58ffcbe58ec3940a","fromSide":"right","toNode":"2bede42f20dc6f86","toSide":"left"},
+		{"id":"5f4b82fbea543a25","fromNode":"58ffcbe58ec3940a","fromSide":"right","toNode":"2ac3419622f51935","toSide":"left"},
+		{"id":"91998beea7871df4","fromNode":"4aef0105bf3e3ed6","fromSide":"right","toNode":"c7fed272bb2fec8b","toSide":"left"},
+		{"id":"5db2d5a69656cf08","fromNode":"4aef0105bf3e3ed6","fromSide":"right","toNode":"88c7d63934fb9f65","toSide":"left"},
+		{"id":"c044326ce178b78c","fromNode":"c7fed272bb2fec8b","fromSide":"right","toNode":"7a3c23619be5df10","toSide":"bottom"},
+		{"id":"5c911db8e24ed0f0","fromNode":"7a3c23619be5df10","fromSide":"right","toNode":"cd1ca7166bc58900","toSide":"left"},
+		{"id":"8b669533b065f5e0","fromNode":"cd1ca7166bc58900","fromSide":"bottom","toNode":"474f1f19ed3a48fe","toSide":"top"},
+		{"id":"b85442a2c08c7c1b","fromNode":"7a3c23619be5df10","fromSide":"top","toNode":"f15cf2a59ac39b13","toSide":"bottom"},
+		{"id":"0ed7321f4db6e09f","fromNode":"f15cf2a59ac39b13","fromSide":"right","toNode":"4efdafe84ebd5b37","toSide":"left"},
+		{"id":"1fba10d225090ab8","fromNode":"6eade02cf3946bc9","fromSide":"bottom","toNode":"45491d1b754d715d","toSide":"top"},
+		{"id":"003aacedadd9626b","fromNode":"7a3c23619be5df10","fromSide":"left","toNode":"6eade02cf3946bc9","toSide":"right"}
+	]
+}

@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "3fa9824a61aeb606",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b5b0bebd47a1c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22080b7ad4c7a332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ПЕРСОНАЖИ/Норт.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbd72939de56a1be",
+    "type": "split",
+    "children": [
+      {
+        "id": "592ce1a3d91efadb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d19da72f086d747c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d97339c13679e04b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3de9c6ff7b9c7891",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "348b9db1fa6a1719",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a701c50506b0dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f66057931a73a1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ПЕРСОНАЖИ/Норт.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa61832546c390fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ПЕРСОНАЖИ/Норт.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ae8e74ede4045aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5cd3ca711423ba83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ПЕРСОНАЖИ/Норт.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "22080b7ad4c7a332",
+  "lastOpenFiles": [
+    "СЮЖЕТ/Завязка.md",
+    "СЮЖЕТ/Пролог.md",
+    "Без названия.canvas",
+    "Без названия.md",
+    "ПЕРСОНАЖИ/Норт.md",
+    "СЮЖЕТ",
+    "ПЕРСОНАЖИ"
+  ]
+}

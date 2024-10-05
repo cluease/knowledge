@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "c8e0dba06903b0c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f6d5fc94eb2afe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16cbfe4fd390f2eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad4a8d6987e85be3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6acbe831af2aeca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d624e4cd7b80171",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "013699cf15503560",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f97012cb3ea86bec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08d8fc9f63551613",
+    "type": "split",
+    "children": [
+      {
+        "id": "af8095f905618f64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b3e40d85ef7bb1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80d986feeabcd077",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "417cb87693d0a4c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75d400144f53c51a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "16cbfe4fd390f2eb",
+  "lastOpenFiles": [
+    "OUTLAW Wiki/Сюжет/Начало.md",
+    "OUTLAW Wiki/Сюжет/Завязка.md",
+    "OUTLAW Wiki/Сюжет/Без названия.md",
+    "OUTLAW Wiki/Сюжет",
+    "OUTLAW Wiki/Без названия",
+    "OUTLAW Wiki/Завязка.md",
+    "OUTLAW Wiki/Без названия.md",
+    "OUTLAW Wiki",
+    "НОВАЯ ИСТОРИЯэ/ЗАГЛАВИЕ.md",
+    "НОВАЯ ИСТОРИЯэ/Без названия.md",
+    "НОВАЯ ИСТОРИЯэ",
+    "LIGHTS OUT WIKI",
+    "LIGHTS OUT Wiki.md",
+    "Без названия 1.canvas",
+    "2023-10-16.md",
+    "Без названия.canvas"
+  ]
+}
